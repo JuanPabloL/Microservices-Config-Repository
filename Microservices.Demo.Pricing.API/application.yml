@@ -4,4 +4,4 @@ ElasticApm:
     SecretToken: 
     ServerUrls: http://microservices.demo.apm-server:8200
     ServiceName: Microservices.Demo.Pricing.API
-    Environment: production
+    Environment: development
