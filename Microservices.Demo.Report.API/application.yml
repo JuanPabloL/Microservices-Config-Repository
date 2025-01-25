@@ -1,0 +1,8 @@
+ServicesUrl:
+    PolicyApiUrl: http://Microservices.Demo.Policy.API/api/policies
+    ProductApiUrl: http://localhost:5048/api/products
+ElasticApm:
+    SecretToken: 
+    ServerUrls: http://microservices.demo.apm-server:8200
+    ServiceName: Microservices.Demo.Product.API
+    Environment: Development
